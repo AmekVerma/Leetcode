@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/AmekVerma/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/AmekVerma/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/AmekVerma/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/AmekVerma/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AmekVerma/Leetcode/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
