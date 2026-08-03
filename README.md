@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmekVerma/Leetcode/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/AmekVerma/Leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AmekVerma/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AmekVerma/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
