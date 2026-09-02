@@ -69,4 +69,16 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AmekVerma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
