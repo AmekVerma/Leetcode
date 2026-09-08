@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/AmekVerma/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/AmekVerma/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AmekVerma/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
