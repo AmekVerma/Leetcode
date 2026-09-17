@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmekVerma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmekVerma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/AmekVerma/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/AmekVerma/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AmekVerma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmekVerma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmekVerma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
