@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AmekVerma/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AmekVerma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/AmekVerma/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/AmekVerma/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/AmekVerma/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmekVerma/Leetcode/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AmekVerma/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
