@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/AmekVerma/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AmekVerma/Leetcode/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AmekVerma/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AmekVerma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@
 | [0055-jump-game](https://github.com/AmekVerma/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AmekVerma/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmekVerma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/AmekVerma/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AmekVerma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -69,6 +72,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AmekVerma/Leetcode/tree/master/0089-gray-code) |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +87,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmekVerma/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AmekVerma/Leetcode/tree/master/0020-valid-parentheses) |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +124,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AmekVerma/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/AmekVerma/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
